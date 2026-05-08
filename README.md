@@ -101,6 +101,21 @@ End-to-end Manual QA project for the KSP e-commerce platform, covering core shop
 
 ---
 
-## 👤 Author
+## 📊 Test Execution Results
+
+### Execution Summary
+![Execution Summary](assets/screenshots/execution-summary.png)
+
+### Execution by Module
+![Execution by Module](assets/screenshots/execution-by-module.png)
+
+### Defect Severity Distribution
+![Defect Severity](assets/screenshots/defect-severity.png)
+
+### Release Position
+![Release Position](assets/screenshots/release-position.png)
+---
+
+## 👤 Author Kirill kovalevski
 
 **Kirill Kovalevski** — Manual QA Engineer

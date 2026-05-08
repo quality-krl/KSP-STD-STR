@@ -103,17 +103,14 @@ End-to-end Manual QA project for the KSP e-commerce platform, covering core shop
 
 ## 📊 Test Execution Results
 
-### Execution Summary
-![Execution Summary](assets/screenshots/execution-summary.png)
+![Execution Summary](assets/screenshots/KSP_ScreenShot_1.png)
 
-### Execution by Module
-![Execution by Module](assets/screenshots/execution-by-module.png)
+![Execution by Module](assets/screenshots/KSP_ScreenShot_2.png)
 
-### Defect Severity Distribution
-![Defect Severity](assets/screenshots/defect-severity.png)
+![Defect Severity](assets/screenshots/KSP_ScreenShot_3.png)
 
-### Release Position
-![Release Position](assets/screenshots/release-position.png)
+![Release Position](assets/screenshots/KSP_ScreenShot_4.png)
+
 ---
 
 ## 👤 Author Kirill kovalevski

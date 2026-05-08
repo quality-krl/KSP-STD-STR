@@ -97,7 +97,7 @@ End-to-end Manual QA project for the KSP e-commerce platform, covering core shop
 
 ## 📄 Full Documentation
 
-[📥 Download Full STD & STR (PDF)](docs/KSP_Website_STD__STR__Kirill_Kovalevski.pdf)
+[📥 Download Full STD & STR (PDF)](docs/KSP_Website_STD%20_STR%20_Kirill%20Kovalevski.pdf)
 
 ---
 
